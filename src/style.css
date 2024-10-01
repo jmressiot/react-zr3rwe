@@ -1,0 +1,18 @@
+h1,
+h2,
+div,
+p {
+  font-family: 'Calibri';
+}
+
+.action {
+  margin-left: 20px;
+}
+
+.row {
+  color: white;
+  font-weight: 600;
+  padding: 0.5em;
+  margin-bottom: 20px;
+  background-color: #88d8b8;
+}
